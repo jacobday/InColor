@@ -1,0 +1,9 @@
+Our group has decided to make a drawing app. We are going to be using Core Graphics, Photokit, and Core Data.
+Our app is going to start with a blank page that is a for drawing. This will use Core Graphics to let the user use their finger or an apple pencil to draw.
+This page will have a button in the top right corner that will clear the drawing and reset it, a button in the top left to save the drawing,
+and a button in the middle that gives the user a random image to trace. 
+The images that the user is able to draw on come from the user's camera roll. They can give access to all of their phots or just select some. 
+The app then randomly selects one to show the user.
+There is going to be a second view that allows the user to change colors (of the background and pencil) and choose the thickness of their lines when drawing. 
+The third view is going to be a table that allows the view their saved drawings. 
+These drawings will be be saved to the device with Core Data. 
