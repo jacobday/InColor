@@ -1,4 +1,4 @@
-<div align="center"><img src="./InColor/InColor/Assets.xcassets/AppIcon.appiconset/180.png" ></div>
+<div align="center"><img src="./in-color-header.jpg" ></div>
 
 <h2 align="center">In Color</h2>
 
